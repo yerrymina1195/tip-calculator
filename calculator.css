@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&family=Space+Mono:ital,wght@1,700&display=swap');
+.mystyle{
+    background-color: brown;
+}
+
+body{
+    background-color: hsl(185, 41%, 84%);
+    color:  hsl(186, 14%, 43%);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.frere{
+outline: none;
+
+}
+.arrierePlan{
+    background-color:   hsl(189, 41%, 97%);
+    font-size: 24px;
+    border-radius: 10px;
+}
+.button{
+    border-radius:10px ;
+}
+.phrase{
+    font-size: 20px;
+}
+.iconic{
+    /* width: 20px; */
+    height: 20px;
+}
+.Calculator_wrapper{
+    border-radius: 16px;
+}
+.secondpart{
+    background-color: hsl(183, 100%, 15%);
+    border-radius: 20px;
+}
+.reset{
+   background-color:  #0d686d;
+}
+.grlt{
+    color:hsl(172, 67%, 45%)
+}
+.custom::placeholder{
+    color: hsl(183, 100%, 15%);
+    font-size: 20px;
+}
+.custom{
+    background-color:   hsl(189, 41%, 97%);
+    border-radius: 10px;
+
+}
+#cnzero{
+    font-size: 15px;
+}
